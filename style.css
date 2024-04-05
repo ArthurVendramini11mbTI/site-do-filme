@@ -1,0 +1,30 @@
+body {
+    background-color:cornflowerblue;
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+h2{
+    
+    background-color: rgb(77, 125, 216);
+    max-width: 150px;
+    margin-inline: auto;
+    margin-block: 30px;
+    padding: 20px;
+    border-radius: 24px;
+    color: white;
+    
+}
+
+p{
+    text-align: center;
+    color: white
+}
+
+ol{
+    color: white
+}
